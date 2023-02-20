@@ -1,0 +1,13 @@
+* TOC                                                                 :TOC_4:
+  - [[#introduction][Introduction]]
+  - [[#3rd-party-reverse-camera-mount-ls8012][3rd party reverse camera mount (LS8012)]]
+
+** Introduction
+This repository contains models used in our Skoda Fabia 2014. Typically it'll work in many other cars built on the same VW platform.
+
+** 3rd party reverse camera mount (LS8012)
+Third party reverse cameras nowadays have clips supposed to grip just like the original door handle - but typically they're too small, and are not capable of properly securing the camera. Those modules also have screws - but they can't be fastened to anything in the car. Printing two of the nut supports in PETG allows properly mounting the camera using two washers and two locking nuts.
+
+- [[reverse_camera_mount.scad][OpenSCAD file]]
+- [[./doc/IMG_20220702_112041.jpg][One side mounted]], [[./doc/IMG_20220702_112304.jpg][fully mounted]]
+- [[https://www.printables.com/model/404444-skodavw-comatible-3rd-party-reverse-camera-mount][STL at printables]]
